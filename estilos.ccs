@@ -1,0 +1,37 @@
+h1
+{
+  background: green;
+}
+
+body
+{
+ /* background: yellow; */
+  background: linear-gradient(#33FF8C,yellow);
+  font-family: 'Caveat', cursive;
+}
+
+.subtitulo
+{
+  color: red;
+  font-size:60px;
+  font-weight: 800;
+}
+.parrafo
+{
+  color: black;
+  font-size: 40px;
+  font-weight: 900;
+}
+#boton
+{
+  font-size: 20px;
+  background: blue;
+  color: white;
+}
+
+form
+{
+  display: flex;
+  flex-direction: column;
+  
+}
